@@ -1,0 +1,12 @@
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\bin\Debug\net7.0\CleanMovie.Domain.deps.json
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\bin\Debug\net7.0\CleanMovie.Domain.dll
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\bin\Debug\net7.0\CleanMovie.Domain.pdb
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.csproj.AssemblyReference.cache
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.AssemblyInfoInputs.cache
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.AssemblyInfo.cs
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.dll
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\refint\CleanMovie.Domain.dll
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\CleanMovie.Domain.pdb
+C:\Users\Izuchukwu\source\repos\CleanMovie.Domain\obj\Debug\net7.0\ref\CleanMovie.Domain.dll
